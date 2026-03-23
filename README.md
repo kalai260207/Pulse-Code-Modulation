@@ -1,3 +1,5 @@
+# NAME: KALAIVANI D
+# REG NO: 212224060113
 # Pulse-Code-Modulation
 ## Aim
 To perform Pulse Code Modulation for a given signal using python.
